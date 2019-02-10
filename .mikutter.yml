@@ -1,0 +1,9 @@
+---
+slug: :sound_fav
+depends:
+  mikutter: 3.8.4
+  plugin: []
+version: '0.1'
+author: nksymsym
+name: sound_fav
+description: ふぁぼったときにもふぁぼられ音を鳴らします
